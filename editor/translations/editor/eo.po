@@ -1,5 +1,5 @@
-# Esperanto translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Esperanto translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # Scott Starkey <yekrats@gmail.com>, 2019.
@@ -26,7 +26,7 @@
 # Julián Lacomba <julian_alberto93@yahoo.com.ar>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "PO-Revision-Date: 2025-09-16 06:20+0000\n"
 "Last-Translator: Julián Lacomba <julian_alberto93@yahoo.com.ar>\n"
@@ -2710,8 +2710,8 @@ msgstr "Oraj Sponsoroj"
 msgid "Silver Sponsors"
 msgstr "Arĝentaj Sponsoroj"
 
-msgid "Godot Engine contributors"
-msgstr "Kontribuantoj de Godot Engine"
+msgid "Meowdot Engine contributors"
+msgstr "Kontribuantoj de Meowdot Engine"
 
 msgid "Thanks from the Godot community!"
 msgstr "Dankon de la komunumo de Godot!"
@@ -2726,12 +2726,12 @@ msgid "Third-party Licenses"
 msgstr "Permesiloj de eksteraj liverantoj"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."
 msgstr ""
-"Godot Engine fidas al multe liberaj kaj malfermitkodaj bibliotekoj de ekstera "
+"Meowdot Engine fidas al multe liberaj kaj malfermitkodaj bibliotekoj de ekstera "
 "liveranto, ĉio kongruas kun la kondiĉoj de ĝia MIT-permesilo. La jenoj estas "
 "elĉerpa listo de ĉiom tiaj komponantoj de ekstera liveranto kun iliaj "
 "kopirajtaj atentigoj kaj permesilaj kondiĉoj respektive."

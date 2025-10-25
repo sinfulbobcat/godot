@@ -1,5 +1,5 @@
-# Georgian translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Georgian translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # Giorgi Beriashvili <giorgi.beriashvili@outlook.com>, 2018.
@@ -9,7 +9,7 @@
 # Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2023, 2024, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-09-16 06:20+0000\n"
@@ -2181,7 +2181,7 @@ msgstr "ფაილი ამ სახელით უკვე არსე�
 msgid "Folder name is valid."
 msgstr "საქაღალდის სახელი სწორია."
 
-msgid "Godot Engine contributors"
+msgid "Meowdot Engine contributors"
 msgstr "Godot ძრავის ხელშემწყობები"
 
 msgid "Thanks from the Godot community!"

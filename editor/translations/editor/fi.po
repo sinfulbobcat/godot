@@ -1,5 +1,5 @@
-# Finnish translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Finnish translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # basse <basse@roiske.org>, 2017.
@@ -31,7 +31,7 @@
 # Ellen <catskulllss@gmail.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-08-26 18:02+0000\n"
@@ -3507,7 +3507,7 @@ msgstr "Avaa %s telakka."
 msgid "Focus on the %s dock."
 msgstr "Kohdista %s telakkaan."
 
-msgid "%s - Godot Engine"
+msgid "%s - Meowdot Engine"
 msgstr "%s - Godot Pelimoottori"
 
 msgid "Move this dock right one tab."
@@ -6514,7 +6514,7 @@ msgstr "Platinajäsenet"
 msgid "Gold Members"
 msgstr "Kultajäsenet"
 
-msgid "Thank you for choosing Godot Engine!"
+msgid "Thank you for choosing Meowdot Engine!"
 msgstr "Kiitos, että valitsit Godot Pelimoottorin!"
 
 msgid "Name cannot be empty."
@@ -6548,7 +6548,7 @@ msgstr ""
 msgid "Folder name is valid."
 msgstr "Kansion nimi on validi."
 
-msgid "Godot Engine contributors"
+msgid "Meowdot Engine contributors"
 msgstr "Godot moottorin kehittäjät"
 
 msgid "Thanks from the Godot community!"
@@ -6564,7 +6564,7 @@ msgid "Third-party Licenses"
 msgstr "Kolmannen osapuolen lisenssit"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."

@@ -1,5 +1,5 @@
-# Dutch translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Dutch translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # aelspire <aelspire@gmail.com>, 2017.
@@ -90,7 +90,7 @@
 # Max de Kroon <dekroon.mja@gmail.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-09-18 03:38+0000\n"
@@ -3078,8 +3078,8 @@ msgstr "Open het %s-paneel."
 msgid "Focus on the %s dock."
 msgstr "Focus naar het %s-paneel."
 
-msgid "%s - Godot Engine"
-msgstr "%s - Godot Engine"
+msgid "%s - Meowdot Engine"
+msgstr "%s - Meowdot Engine"
 
 msgid "Move this dock right one tab."
 msgstr "Beweeg dit paneel een tab naar rechts."
@@ -5139,8 +5139,8 @@ msgstr "Platina Leden"
 msgid "Gold Members"
 msgstr "Gouden Leden"
 
-msgid "Thank you for choosing Godot Engine!"
-msgstr "Bedankt dat je voor Godot Engine gekozen hebt!"
+msgid "Thank you for choosing Meowdot Engine!"
+msgstr "Bedankt dat je voor Meowdot Engine gekozen hebt!"
 
 msgid "Name cannot be empty."
 msgstr "Naam kan niet leeg zijn."
@@ -5191,8 +5191,8 @@ msgstr "Basispad: %s."
 msgid "Folder name is valid."
 msgstr "Mapnaam is ongeldig."
 
-msgid "Godot Engine contributors"
-msgstr "Bijdragers aan Godot Engine"
+msgid "Meowdot Engine contributors"
+msgstr "Bijdragers aan Meowdot Engine"
 
 msgid "Double-click to open in browser."
 msgstr "Dubbelklik om in een browser te openen."
@@ -5210,12 +5210,12 @@ msgid "Third-party Licenses"
 msgstr "Licenties van derden"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."
 msgstr ""
-"Godot Engine maakt gebruik van een aantal gratis en open-source bibliotheken, "
+"Meowdot Engine maakt gebruik van een aantal gratis en open-source bibliotheken, "
 "ontwikkeld door derden, die compatibel zijn met de MIT-licentie. Wat volgt is "
 "een uitputtende lijst van alle componenten van derde partijen met hun "
 "respectievelijke copyrightberichten en licentietermen."

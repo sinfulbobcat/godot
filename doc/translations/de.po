@@ -1,5 +1,5 @@
-# German translation of the Godot Engine class reference.
-# Copyright (c) 2014-present Godot Engine contributors.
+# German translation of the Meowdot Engine class reference.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 #
@@ -110,7 +110,7 @@
 # gebirgsbaerbel <reichart.barbara@gmail.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine class reference\n"
+"Project-Id-Version: Meowdot Engine class reference\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "PO-Revision-Date: 2025-08-27 07:52+0000\n"
 "Last-Translator: gebirgsbaerbel <reichart.barbara@gmail.com>\n"

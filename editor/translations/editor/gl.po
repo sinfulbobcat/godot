@@ -1,5 +1,5 @@
-# Galician translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Galician translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 #
@@ -21,7 +21,7 @@
 # Julián Lacomba <julian_alberto93@yahoo.com.ar>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "PO-Revision-Date: 2025-08-26 18:03+0000\n"
 "Last-Translator: Yago Raña Gayoso <yago.rana.gayoso@gmail.com>\n"
@@ -2783,8 +2783,8 @@ msgstr "Un cartafol con ese nome xa existe."
 msgid "Folder name is valid."
 msgstr "O nome do cartafol é válido."
 
-msgid "Godot Engine contributors"
-msgstr "Colaboradores de Godot Engine"
+msgid "Meowdot Engine contributors"
+msgstr "Colaboradores de Meowdot Engine"
 
 msgid "Double-click to open in browser."
 msgstr "Dobre-clic para abrir no navegador."
@@ -2802,12 +2802,12 @@ msgid "Third-party Licenses"
 msgstr "Licenzas de Terceiros"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."
 msgstr ""
-"Godot Engine depende dun número de bibliotecas de terceiros, gratis e open "
+"Meowdot Engine depende dun número de bibliotecas de terceiros, gratis e open "
 "source; todas compatibles cos termos da licenza MIT. A seguinte e unha lista "
 "exhaustiva dos devanditos compoñentes de terceiros, coas suas respectivas "
 "declaracións de copyright e termos de licenza."

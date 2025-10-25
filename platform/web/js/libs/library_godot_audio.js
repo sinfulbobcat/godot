@@ -5,7 +5,7 @@
 /*                             GODOT ENGINE                               */
 /*                        https://godotengine.org                         */
 /**************************************************************************/
-/* Copyright (c) 2014-present Godot Engine contributors (see AUTHORS.md). */
+/* Copyright (c) 2014-present Meowdot Engine contributors (see AUTHORS.md). */
 /* Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.                  */
 /*                                                                        */
 /* Permission is hereby granted, free of charge, to any person obtaining  */
@@ -797,7 +797,7 @@ class SampleNode {
 }
 
 /**
- * Collection of nodes to represents a Godot Engine audio bus.
+ * Collection of nodes to represents a Meowdot Engine audio bus.
  * @class
  */
 class Bus {

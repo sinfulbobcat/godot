@@ -1,5 +1,5 @@
-# Spanish (Argentina) translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Spanish (Argentina) translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # Diego López <diegodario21@gmail.com>, 2017.
@@ -41,7 +41,7 @@
 # a <ramsesvillacol@gmail.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-08-26 18:02+0000\n"
@@ -2556,8 +2556,8 @@ msgstr "Abrir el panel %s."
 msgid "Focus on the %s dock."
 msgstr "Enfocar el panel %s."
 
-msgid "%s - Godot Engine"
-msgstr "%s - Godot Engine"
+msgid "%s - Meowdot Engine"
+msgstr "%s - Meowdot Engine"
 
 msgid "Move this dock right one tab."
 msgstr "Mover este panel una pestaña hacia la derecha."
@@ -4373,8 +4373,8 @@ msgstr ""
 "Usar barras al nombrar rutas creará el archivo en una subcarpeta. Se crearán "
 "subcarpetas en caso de que haga falta."
 
-msgid "Godot Engine contributors"
-msgstr "Colaboradores de Godot Engine"
+msgid "Meowdot Engine contributors"
+msgstr "Colaboradores de Meowdot Engine"
 
 msgid "Double-click to open in browser."
 msgstr "Doble click para abrir en el navegador."
@@ -4392,12 +4392,12 @@ msgid "Third-party Licenses"
 msgstr "Licencia de Terceros"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."
 msgstr ""
-"Godot Engine se basa en una serie de librerías libres y de código abierto de "
+"Meowdot Engine se basa en una serie de librerías libres y de código abierto de "
 "terceros, todas ellas compatibles con los términos de su licencia MIT. La "
 "siguiente es una lista exhaustiva de todos estos componentes de terceros con "
 "sus respectivas declaraciones de derechos de autor y términos de licencia."

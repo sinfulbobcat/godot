@@ -1,5 +1,5 @@
-# Chinese (Simplified) translation of the Godot Engine properties.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Chinese (Simplified) translation of the Meowdot Engine properties.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # 360119124 <360119124@qq.com>, 2018.
@@ -98,7 +98,7 @@
 # lan123 <1283118891@qq.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Chinese (Simplified) (Godot Engine)\n"
+"Project-Id-Version: Chinese (Simplified) (Meowdot Engine)\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: 2018-01-20 12:15+0200\n"
 "PO-Revision-Date: 2025-09-09 04:24+0000\n"

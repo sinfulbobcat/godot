@@ -1,6 +1,6 @@
-#define MyAppName "Godot Engine"
+#define MyAppName "Meowdot Engine"
 #define MyAppVersion "4.6"
-#define MyAppPublisher "Godot Engine contributors"
+#define MyAppPublisher "Meowdot Engine contributors"
 #define MyAppURL "https://godotengine.org/"
 #define MyAppExeName "godot.exe"
 
@@ -15,10 +15,10 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-AppComments=Godot Engine editor
+AppComments=Meowdot Engine editor
 ChangesEnvironment=yes
 DefaultDirName={localappdata}\Godot
-DefaultGroupName=Godot Engine
+DefaultGroupName=Meowdot Engine
 AllowNoIcons=yes
 UninstallDisplayIcon={app}\{#MyAppExeName}
 #ifdef App32Bit

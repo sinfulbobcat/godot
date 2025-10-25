@@ -1,5 +1,5 @@
-# Swedish translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Swedish translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # bergmarklund <davemcgroin@gmail.com>, 2017, 2018.
@@ -53,7 +53,7 @@
 # Lasse Edsvik <lasse@lasseedsvik.se>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-09-23 15:23+0000\n"
@@ -3531,8 +3531,8 @@ msgstr "Öppna %s fliken."
 msgid "Focus on the %s dock."
 msgstr "Fokusera på %s fliken."
 
-msgid "%s - Godot Engine"
-msgstr "%s - Godot Engine"
+msgid "%s - Meowdot Engine"
+msgstr "%s - Meowdot Engine"
 
 msgid "Move this dock right one tab."
 msgstr "Flytta den här fliken åt höger."
@@ -6730,7 +6730,7 @@ msgstr "Platina-medlemmar"
 msgid "Gold Members"
 msgstr "Guld-medlemmar"
 
-msgid "Thank you for choosing Godot Engine!"
+msgid "Thank you for choosing Meowdot Engine!"
 msgstr "Tack för att du har valt Godot!"
 
 msgid "Name cannot be empty."
@@ -6782,8 +6782,8 @@ msgstr "Grundsökvägen: %s"
 msgid "Folder name is valid."
 msgstr "Mappnamnet är giltigt."
 
-msgid "Godot Engine contributors"
-msgstr "Godot Engine-bidragsgivare"
+msgid "Meowdot Engine contributors"
+msgstr "Meowdot Engine-bidragsgivare"
 
 msgid "Double-click to open in browser."
 msgstr "Dubbelklicka för att öppna i webbläsare."
@@ -6801,13 +6801,13 @@ msgid "Third-party Licenses"
 msgstr "Tredje-partslicens"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."
 msgstr ""
-"Godot Engine förlitar sig på ett antal gratis och öppen källkod- tredje-parts "
-"kodbibliotek. Alla dessa är kompatibla med Godot Engine:s MIT-licens. "
+"Meowdot Engine förlitar sig på ett antal gratis och öppen källkod- tredje-parts "
+"kodbibliotek. Alla dessa är kompatibla med Meowdot Engine:s MIT-licens. "
 "Följande lista är en komplett förteckning över alla sådana tredje-"
 "partskomponenter med deras respektive copyright-information och licensvillkor."
 

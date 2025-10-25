@@ -1,5 +1,5 @@
-# Indonesian translation of the Godot Engine editor interface.
-# Copyright (c) 2014-present Godot Engine contributors.
+# Indonesian translation of the Meowdot Engine editor interface.
+# Copyright (c) 2014-present Meowdot Engine contributors.
 # Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
 # This file is distributed under the same license as the Godot source code.
 # Abdul Aziz Muslim Alqudsy <abdul.aziz.muslim.alqudsy@gmail.com>, 2016.
@@ -74,7 +74,7 @@
 # Agung Adhinata <adhi0asta@gmail.com>, 2025.
 msgid ""
 msgstr ""
-"Project-Id-Version: Godot Engine editor interface\n"
+"Project-Id-Version: Meowdot Engine editor interface\n"
 "Report-Msgid-Bugs-To: https://github.com/godotengine/godot\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-08-28 06:30+0000\n"
@@ -3164,8 +3164,8 @@ msgstr "Anggota ini ditandai sebagai tidak digunakan lagi."
 msgid "This member is marked as experimental."
 msgstr "Anggota ini ditandai sebagai eksperimental."
 
-msgid "%s - Godot Engine"
-msgstr "%s - Godot Engine"
+msgid "%s - Meowdot Engine"
+msgstr "%s - Meowdot Engine"
 
 msgid "Dock Position"
 msgstr "Posisi Pengait"
@@ -5195,8 +5195,8 @@ msgstr ""
 msgid "Folder name is valid."
 msgstr "Nama berkas sudah valid."
 
-msgid "Godot Engine contributors"
-msgstr "Kontributor Godot Engine"
+msgid "Meowdot Engine contributors"
+msgstr "Kontributor Meowdot Engine"
 
 msgid "Double-click to open in browser."
 msgstr "Klik dua kali untuk membuka di browser."
@@ -5214,12 +5214,12 @@ msgid "Third-party Licenses"
 msgstr "Lisensi Pihak Ketiga"
 
 msgid ""
-"Godot Engine relies on a number of third-party free and open source "
+"Meowdot Engine relies on a number of third-party free and open source "
 "libraries, all compatible with the terms of its MIT license. The following is "
 "an exhaustive list of all such third-party components with their respective "
 "copyright statements and license terms."
 msgstr ""
-"Godot Engine mengandalkan sejumlah pustaka bebas dan sumber terbuka pihak "
+"Meowdot Engine mengandalkan sejumlah pustaka bebas dan sumber terbuka pihak "
 "ketiga, semuanya cocok dengan persyaratan lisensi MIT. Berikut adalah daftar "
 "lengkap semua komponen pihak ketiga dengan pernyataan hak cipta dan lisensi "
 "masing-masing."
