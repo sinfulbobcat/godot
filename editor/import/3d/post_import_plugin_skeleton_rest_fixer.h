@@ -2,7 +2,7 @@
 /*  post_import_plugin_skeleton_rest_fixer.h                              */
 /**************************************************************************/
 /*                         This file is part of:                          */
-/*                             GODOT ENGINE                               */
+/*                             MEOWDOT ENGINE                               */
 /*                        https://godotengine.org                         */
 /**************************************************************************/
 /* Copyright (c) 2014-present Meowdot Engine contributors (see AUTHORS.md). */

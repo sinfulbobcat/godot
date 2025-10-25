@@ -2,7 +2,7 @@
 /*  GodotXRGame.kt                                                       */
 /*************************************************************************/
 /*                       This file is part of:                           */
-/*                           GODOT ENGINE                                */
+/*                           MEOWDOT ENGINE                                */
 /*                      https://godotengine.org                          */
 /*************************************************************************/
 /* Copyright (c) 2007-2022 Juan Linietsky, Ariel Manzur.                 */

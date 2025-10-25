@@ -2,7 +2,7 @@
 /*  convex_polygon_shape_3d.h                                             */
 /**************************************************************************/
 /*                         This file is part of:                          */
-/*                             GODOT ENGINE                               */
+/*                             MEOWDOT ENGINE                               */
 /*                        https://godotengine.org                         */
 /**************************************************************************/
 /* Copyright (c) 2014-present Meowdot Engine contributors (see AUTHORS.md). */

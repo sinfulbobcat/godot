@@ -2,7 +2,7 @@
 /*  openxr_htc_vive_tracker_extension.cpp                                 */
 /**************************************************************************/
 /*                         This file is part of:                          */
-/*                             GODOT ENGINE                               */
+/*                             MEOWDOT ENGINE                               */
 /*                        https://godotengine.org                         */
 /**************************************************************************/
 /* Copyright (c) 2014-present Meowdot Engine contributors (see AUTHORS.md). */

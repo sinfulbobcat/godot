@@ -2,7 +2,7 @@
 /*  project_converter_3_to_4.h                                            */
 /**************************************************************************/
 /*                         This file is part of:                          */
-/*                             GODOT ENGINE                               */
+/*                             MEOWDOT ENGINE                               */
 /*                        https://godotengine.org                         */
 /**************************************************************************/
 /* Copyright (c) 2014-present Meowdot Engine contributors (see AUTHORS.md). */

@@ -2,7 +2,7 @@
 /*  link_button.cpp                                                       */
 /**************************************************************************/
 /*                         This file is part of:                          */
-/*                             GODOT ENGINE                               */
+/*                             MEOWDOT ENGINE                               */
 /*                        https://godotengine.org                         */
 /**************************************************************************/
 /* Copyright (c) 2014-present Meowdot Engine contributors (see AUTHORS.md). */
